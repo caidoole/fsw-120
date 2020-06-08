@@ -1,0 +1,21 @@
+.card-item {
+    flex: 1;
+    flex-direction: 'column';
+    border: thin solid black;
+    border-radius: 40px;
+    color: rebeccapurple;
+    margin-bottom: 10px;
+    width: 50%;
+    
+}
+
+.item-title {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+input {
+    margin-right: 20px;
+}
