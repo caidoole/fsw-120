@@ -1,0 +1,21 @@
+body {
+    background-color: whitesmoke;
+}
+
+.card-item {
+    font-weight: bold;
+    border-bottom: thin solid black;
+}
+
+.card-item:hover {
+    text-decoration: underline;
+}
+
+.header {
+    height: 400px;
+    background-image: url(https://cdn.lifehack.org/wp-content/uploads/2014/08/3095124154_1f69f1043b_b.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    font-size: 36px;
+}
