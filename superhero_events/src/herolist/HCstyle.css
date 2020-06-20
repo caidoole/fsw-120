@@ -1,0 +1,26 @@
+body{
+    background-color:lightpink;
+    text-align: center;
+}
+
+.hero-item{
+    background-image: url(https://image.freepik.com/free-vector/abstract-soft-holographic-background-pastel-light-colors_108964-245.jpg);
+    background-repeat: no-repeat;
+    background-position: fixed;
+    background-size: cover;
+    border: thin solid black;  
+}
+
+.images{
+    max-width:400px;
+    border:thick solid pink;
+    border-radius: 70px;
+}
+
+h3{
+    text-decoration: underline;
+}
+
+p{
+    font-size: 20px;
+}
