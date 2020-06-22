@@ -1,0 +1,14 @@
+.button-container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr) ;
+    gap: 10px;
+    height: 200px;
+    max-width: 300px;  
+}
+
+.active-buttons{
+    border: 1px solid black;
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+}

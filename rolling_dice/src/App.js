@@ -5,9 +5,8 @@ import DiceBox from './dice/DiceBox'
 function App() {
   return (
     <div className="App">
-     < DiceBox />
+      <DiceBox />
     </div>
   );
 }
-
 export default App;
