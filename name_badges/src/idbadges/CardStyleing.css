@@ -1,0 +1,92 @@
+body {
+    font-family: 'Comfortaa', cursive;
+    background-color: whitesmoke;
+}
+
+.formattributes {
+    text-align: center;
+    margin: 25px;
+    border: thin solid gray;
+    border-radius: 30px;
+}
+
+textarea {
+    font-family: 'Comfortaa', cursive;
+    background-color: white;
+    min-width: 80%;
+    min-height: 200px;
+    border-radius: 10px;
+}
+
+.badgestyling {
+    background-color: whitesmoke;
+    text-align: center;
+    margin: 25px;
+    border: thin solid gray;
+    border-radius: 30px;
+}
+
+input {
+    font-family: 'Comfortaa', cursive;
+    margin: 15px;
+    border: 1.5px solid black;
+}
+
+.subbutton {
+    font-family: 'Comfortaa', cursive;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    border: thin solid navy;
+    border-radius: 5px;
+    color: navy;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.subbutton:hover {
+    box-shadow: 4px 5px 10px grey;
+    color: navy;
+}
+
+.topofbadge {
+    text-align: center;
+    margin-top: 25px;
+    border: thin solid navy;
+    color: white;
+    background-color: navy;
+    padding: 5px;
+}
+
+.topofbadgered {
+    text-align: center;
+    margin-top: 25px;
+    border: thin solid crimson;
+    color: white;
+    background-color: crimson;
+    padding: 5px;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+}
+
+p {
+    background-color: whitesmoke;
+    text-align: left;
+    padding: 5px;
+    margin-right: 5px;
+}
+
+.deletebutton {
+    font-family: 'Comfortaa', cursive;
+    background-color: orange;
+    border-radius: 5px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.deletebutton:hover {
+    background-color: lightsalmon;
+    box-shadow: 4px 5px 10px black;
+}
