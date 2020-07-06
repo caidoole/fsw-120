@@ -1,0 +1,33 @@
+.foot {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #f9bc93;
+    color: lavenderblush;
+    padding: 10px
+}
+
+.footerText {
+    text-align: center;
+    padding: 2px;
+    margin: 0;
+}
+
+.icons {
+    display: flex;
+    flex-direction: row;
+    margin-top: 10px;
+}
+
+i {
+    margin-right: 10px;
+}
+
+.fa {
+    font-size: 20px;
+}
+
+.fa-copyright {
+    font-size: 15px;
+}

@@ -1,0 +1,25 @@
+.serviceCards {
+    display: flex;
+    flex: 1;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding: 15px;
+}
+
+.serviceCard {
+    flex: 1;
+    margin: 5px;
+    max-width: 350px;
+    background-color: #ff9786;
+}
+
+.serviceCardTitle {
+    color: lavenderblush;
+    text-align: center;
+    background-color: #eb664c;
+    padding: 5px;
+}
+
+.serviceCardContent {
+    color: lavenderblush;
+}

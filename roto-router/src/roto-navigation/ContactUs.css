@@ -1,0 +1,66 @@
+.contactUsCards {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 15px;
+    margin-top: 15px;
+
+}
+
+.contactUsCard {
+    margin: 5px;
+    background-color: #f9bc93;
+    border: thin solid black;
+    border-radius: 10px;
+    width: 500px;
+    height: 550px;
+}
+
+.contactUsCardTitle {
+    text-align: center;
+    border: thin solid black;
+    border-radius:10px;
+    padding:10px;
+    background-color: #ff9786;
+}
+
+.contactUsCardContent {
+    padding: 10px;
+    text-align: center;
+}
+
+.form {
+    margin: 15px;
+    padding: 15px;
+}
+
+input {
+    border: 1.5px solid black;
+    border-radius: 5px;
+    margin: 5px;
+}
+
+input:hover {
+    box-shadow: 3px 4px 5px grey;
+
+}
+
+textarea {
+    border: 1.5px solid black;
+    border-radius: 5px;
+    margin-top:15px;
+    min-width: 200px;
+    min-height: 10px;
+}
+
+textarea:hover {
+    box-shadow: 3px 4px 5px grey;
+
+}
+
+button{
+    margin: 10px;
+}
+button:hover{
+    box-shadow: 3px 4px 7px black;
+}

@@ -1,0 +1,20 @@
+.banner {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-image: url(https://i.pinimg.com/originals/af/bf/6c/afbf6c117225f6c13ff8e2c15a6b624e.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding: 10px;
+}
+
+.logo img {
+    max-width: 100px;
+    max-height: 150px;
+}
+
+.companyName {
+    color: lavenderblush;
+    text-align: center;
+}

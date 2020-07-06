@@ -1,6 +1,5 @@
 import React from 'react'
 import DjButtons from './DjButtons'
-import './Djstyle.css'
 
 class Djindex extends React.Component {
   constructor(props) {

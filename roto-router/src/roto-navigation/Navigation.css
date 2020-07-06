@@ -1,0 +1,12 @@
+.menuBar {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    background-color: #f9bc93;
+    padding: 0px;
+}
+
+.link {
+    margin: 15px;
+    color: lavenderblush;
+}
