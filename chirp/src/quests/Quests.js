@@ -23,7 +23,7 @@ const Quests = ({ userToken, getToken }) => {
                         <p>Save the Fae from a bad data in the most theatrical way possible <button>Joyn</button></p>
                     </div>
                     <div className='questCards'>
-                        <h3>Scale the Mountion Top Trees</h3>
+                        <h3>Scale the Mountain Top Trees</h3>
                         <img src='https://media-cdn.tripadvisor.com/media/photo-s/05/34/9e/92/trees-of-mystery.jpg' alt='trees' />
                         <p>Scale the tallest tree in your realm, share the view and challenge your friends <button>Joyn</button></p>
                     </div>
