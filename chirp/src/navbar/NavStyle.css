@@ -1,0 +1,16 @@
+.menuBar{
+    background-color: #55777f;
+    border: thin solid black;
+    padding: 5px;
+    margin-bottom: 10px;
+    text-align: left;
+}
+
+.menuBar .link{
+    padding: 5px;
+    color:white;
+}
+
+.link:hover{
+    box-shadow: 2px 3px 5px black;
+}

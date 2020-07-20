@@ -1,0 +1,17 @@
+.bottomStyle{
+    position:relative;
+    left: 0;
+    bottom: 0;
+    height: 50px;
+    width: 100%;
+    text-align: center;
+    background-color:#bc8f8f;
+    border: thin solid black;
+    padding:15px;
+      
+}
+
+.footnotes{
+    display: inline-block;
+    font-size: 15px;
+}

@@ -1,0 +1,26 @@
+.homeImage{
+  margin-top: 25px;
+  margin-bottom: 250px;
+}
+
+input{
+    font-family:'Fondamento', cursive;
+    margin: 3px;
+    height:30px;
+    width:300px
+   
+}
+
+input:hover{
+    box-shadow: 2px 3px 5px silver;
+}
+
+.loginButton{
+  margin: 15px;
+  padding:2px;
+}
+
+.loginWelcome{
+  font-size: 68px;
+
+}

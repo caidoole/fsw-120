@@ -1,0 +1,41 @@
+button{
+    font-family: 'Fondamento', cursive;
+    border-radius: 10px;
+    margin: 5px;
+    padding: 5px;
+    width: 55px;
+}
+
+h3:hover{
+    text-decoration: underline;
+}
+
+p{
+    font-size: 20px;
+}
+
+button:hover{
+    box-shadow: 3px 4px 5px black;
+}
+
+img{
+    border: thick solid silver;
+    width:200px;
+}
+
+img:hover{
+    box-shadow: 3px 4px 6px silver;
+}
+
+.questCards{
+background-color: #d5c2be;
+    border: 2px solid silver;
+    border-radius: 25px;
+    margin: 20px;
+    box-shadow: 5px 10px 15px silver;
+}
+
+.questLoginReminder{
+    margin-top: 25px;
+    margin-bottom: 250px;
+}
